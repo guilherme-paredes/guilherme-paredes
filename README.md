@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 Eu estou a procura de uma oportunidade para iniciar na área - I’m looking for a oportunity to start on 
+- 🌱 Atualmente estou estudando o Curso Tecnico de Desenvolvimento de Sistemas no SENAI/SC - I’m currently studing Technic Sistem Development on SENAI/SC
 <!--
 **guilherme-paredes/guilherme-paredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
